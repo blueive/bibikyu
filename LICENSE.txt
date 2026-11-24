@@ -1,0 +1,15 @@
+bibikyu
+Copyright (c) 2026 bibi
+
+You can use bibikyu for free, for personal or group work, and share it with
+others, as long as you share it unchanged and keep this file with it.
+
+You may not sell bibikyu, include it in a paid product, or present it as
+your own work.
+
+bibikyu is provided "as is", without warranty of any kind. The author is
+not responsible for any loss of data or other damage that may result from
+using it. Keep a copy of your original subtitle files.
+
+The application icon is fan art of a character owned by its respective
+rights holders. It is not covered by this license.
